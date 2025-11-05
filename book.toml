@@ -3,7 +3,7 @@ authors = ["JoaoCostaIFG"]
 language = "en"
 multilingual = false
 src = "src"
-title = "JoaoCostaIFG's Wiki"
+title = "Paul's Wiki"
 
 [output.html]
 additional-css = [
@@ -14,6 +14,6 @@ additional-css = [
 default-theme = "latte"
 preferred-dark-theme = "mocha"
 no-section-label = true
-git-repository-url = "https://github.com/JoaoCostaIFG/wiki"
+git-repository-url = "https://github.com/mooneydude/wiki"
 git-repository-icon = "fa-github"
-cname = "wiki.joaocosta.dev"
+# cname = "wiki.joaocosta.dev"
