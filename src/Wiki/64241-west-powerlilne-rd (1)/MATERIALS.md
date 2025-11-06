@@ -72,6 +72,32 @@ These colors appeal to the widest range of buyers and photograph well:
 
 ---
 
+## Exterior Paint Colors
+
+### Best Neutral Exterior Paint Colors for Resale
+
+These colors offer broad appeal and enhance curb appeal for potential buyers.
+
+#### Recommended Exterior Color Schemes
+
+**Option 1: Warm Off-White/Greige Body with White Trim**
+-   **Body Color**: Sherwin-Williams Accessible Beige (SW 7036)
+-   **Trim Color**: Sherwin-Williams Pure White (SW 7005)
+-   **Description**: A classic, clean, and inviting look that works well in many settings.
+
+**Option 2: Light Gray Body with White Trim**
+-   **Body Color**: Benjamin Moore Revere Pewter (HC-172)
+-   **Trim Color**: Benjamin Moore Chantilly Lace (OC-65)
+-   **Description**: A modern and very popular choice that provides a fresh, updated feel.
+
+**Accent Color (Optional - for shutters, front door)**
+-   **Accent Color**: Sherwin-Williams Iron Ore (SW 7069)
+-   **Description**: A popular soft black that adds a sophisticated contrast.
+
+**RECOMMENDATION:** Both Option 1 and Option 2 are excellent choices for resale, offering broad appeal and a clean aesthetic. Consider the surrounding landscape and personal preference when making the final decision.
+
+---
+
 ## Paint Products & Specifications
 
 ### Recommended Paint Products
