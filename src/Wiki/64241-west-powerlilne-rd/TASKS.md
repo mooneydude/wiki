@@ -40,6 +40,8 @@
 | ⬜ | Install new window sill | | 2-3 hours | $100-300 | Material + labor |
 | ⬜ | Repair any wall damage | | TBD | TBD | Assess after removal |
 | ⬜ | Repair subfloor if needed | | TBD | TBD | If damage found |
+| ⬜ | Trim tree in front yard | | 1 day | $200-500 | Enhance curb appeal |
+| ⬜ | Mulch and garden front yard | | 1-2 days | $300-700 | Improve curb appeal, fresh look |
 
 ---
 
