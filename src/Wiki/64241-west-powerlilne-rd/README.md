@@ -18,10 +18,10 @@ Complete renovation and staging of Aunt Liz's house to prepare for market listin
 
 ## Quick Links
 
-- [Task List & Timeline](../../Wiki/64241-west-powerlilne-rd%20%281%29/TASKS.md)
-- [Budget & Estimates](../../Wiki/64241-west-powerlilne-rd%20%281%29/BUDGET.md)
-- [Materials & Colors](../../Wiki/64241-west-powerlilne-rd%20%281%29/MATERIALS.md)
-- [Vendor Contacts](../../Wiki/64241-west-powerlilne-rd%20%281%29/VENDORS.md)
+- [Task List & Timeline](../../Wiki/64241-west-powerlilne-rd/TASKS.md)
+- [Budget & Estimates](../../Wiki/64241-west-powerlilne-rd/BUDGET.md)
+- [Materials & Colors](../../Wiki/64241-west-powerlilne-rd/MATERIALS.md)
+- [Vendor Contacts](../../Wiki/64241-west-powerlilne-rd/VENDORS.md)
 
 ## Major Work Items
 
