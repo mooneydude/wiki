@@ -16,4 +16,4 @@
   - [Gemini Commands](Wiki/Gemini Commands/README.md)
     - [a test note](Wiki/Gemini Commands/Test-Note.md)
   - [K8S](Wiki/k8s/README.md)
-    - [saved chat: immich-volsync](Wiki/k8s/immich_backup_summary.md)
+    - [saved chat: immich-volsync](Wiki/k8s/Immich-Volsync.md)
