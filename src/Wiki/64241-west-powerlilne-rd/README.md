@@ -20,10 +20,10 @@ Based on real estate market analysis, the best time to list a house is in the sp
 
 ## Quick Links
 
-- [Task List & Timeline](../../Wiki/64241-west-powerlilne-rd/TASKS.md)
-- [Budget & Estimates](../../Wiki/64241-west-powerlilne-rd/BUDGET.md)
-- [Materials & Colors](../../Wiki/64241-west-powerlilne-rd/MATERIALS.md)
-- [Vendor Contacts](../../Wiki/64241-west-powerlilne-rd/VENDORS.md)
+- [Task List & Timeline](../../Wiki/64241-west-powerlilne-rd/tasks.md)
+- [Budget & Estimates](../../Wiki/64241-west-powerlilne-rd/budget.md)
+- [Materials & Colors](../../Wiki/64241-west-powerlilne-rd/materials.md)
+- [Vendor Contacts](../../Wiki/64241-west-powerlilne-rd/vendors.md)
 
 ## Major Work Items
 
