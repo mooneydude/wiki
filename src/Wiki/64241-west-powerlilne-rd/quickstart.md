@@ -141,9 +141,9 @@ Update: `TIMELINE.md`
 
 - [ ] What is the total square footage?
 - [ ] Exact measurements of rooms needing carpet:
-    - [ ] Room 1: \___\__ x \___\__ ft
-    - [ ] Room 2: \___\__ x \___\__ ft
-    - [ ] Room 3: \___\__ x \___\__ ft
+    - [ ] Room 1: _**\__ x _**\__ ft
+    - [ ] Room 2: _**\__ x _**\__ ft
+    - [ ] Room 3: _**\__ x _**\__ ft
 - [ ] How many rooms total need painting?
 - [ ] Condition of existing cabinet hardware?
 

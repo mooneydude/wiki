@@ -1,4 +1,4 @@
-# Aunt Liz's House Renovation Project![b0abbeddaae32363d01dca8ad35676e3.png](../../_resources/b0abbeddaae32363d01dca8ad35676e3.png)
+# Aunt Liz's House Renovation Project!![69ad8c70b846f219b6fe5a61f221cf50.png](../../_resources/69ad8c70b846f219b6fe5a61f221cf50.png)
 
 ## Project Overview
 
@@ -11,11 +11,13 @@ Complete renovation and staging of Aunt Liz's house to prepare for market listin
 - List the house in optimal condition
 
 ## Project Status
-**Status:** Planning Phase
-**Start Date:** November 4, 2025
+
+**Status:** Planning Phase  
+**Start Date:** November 4, 2025  
 **Target Listing Date:** April 20, 2026
 
 ## Optimal Listing Time
+
 Based on real estate market analysis, the best time to list a house is in the spring, typically May or June. This period sees the highest buyer activity, leading to potentially higher sale prices and faster sales. Our target listing date of April 20, 2026, is set to capitalize on the start of this peak season.
 
 ## Quick Links
