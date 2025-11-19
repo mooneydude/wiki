@@ -15,3 +15,4 @@
     - [Immich Volsync](Wiki/k8s/immich-volsync.md)
   - [Gemini-Commands](Wiki/gemini-commands/README.md)
     - [a test note](Wiki/gemini-commands/test-note.md)
+    - [04042](Wiki/gemini-commands/Tennis-courts.md)
